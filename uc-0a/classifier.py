@@ -1,6 +1,6 @@
 """
 UC-0A — Complaint Classifier
-Build this using the RICE → agents.md → skills.md workflow.
+Build this using the RICE → agents.md → skills.md workflow. Imthiaz Ahmed
 """
 import argparse
 import csv
